@@ -10,10 +10,10 @@ public class Stdmarks {
 		/*45 Marks Pass
 		 45 and under - Fail
 		 45 to 55 - D grade
-		 55 to 65 - c grade
-		 65 to 75 - b grade
-		 75 to 85 - a grade
-		 85 to 100- a+ grade
+		 55 to 65 - C grade
+		 65 to 75 - B grade
+		 75 to 85 - A grade
+		 85 to 100- A+ grade
 		*/
 		int m1=97;
 		
